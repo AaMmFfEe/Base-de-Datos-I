@@ -2,6 +2,7 @@ package Tarea1;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.Scanner;
 
 
@@ -31,9 +32,11 @@ public class ManejoArchivos {
         System.out.println ("El código postal ");
 
         } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
 
-            System.out.println("Error con el archivo");
-            e.printStackTrace();
+        } catch (IOException e){
+            throw new RuntimeException(e);
+
 
         }
     }
