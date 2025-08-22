@@ -1,6 +1,0 @@
-Tiempo de realización: 3 días incluyendo tiempo repasando temas
-
-Este trabajo se me hizo bastante difícil, ya que habían bastantes funciones que no sabía como programar o que si las conocía, las había olvidado.
-Al principio no comprendía muy bien que era lo que debía realizar, así que tuve que separar mi proceso en varios pasos, primero tratando de escribir t0d0 lo que debía realizar y después haciendo una investigación para conocer todos los métodos que pudiera utilizar en Java para cada paso del problema, repasando unos que ya conocía y descubriendo unos nuevos.
-
-Aunque me tomó bastante tiempo considero que me sirvió no solo como repaso sino también para ampliar mi conocimiento sobre Java y encontrar más fuentes para responder mis dudas al momento de resolver un problema.
